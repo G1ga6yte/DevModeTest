@@ -10,6 +10,7 @@ import "./source/styles/ActayWideFont/actayWideFont.scss"
 import App from "./App";
 
 
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
    <BrowserRouter>
